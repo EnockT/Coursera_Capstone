@@ -1,0 +1,15 @@
+1. Assignment (Week 1-Part 2) Project
+Real estate in France, a profitable investment
+
+Data source 1: https://www.ined.fr/en/everything_about_population/data/france/population-structure/regions_departments/
+I will evaluate the population per department to better understand the Real Estate Market 
+Data Source 2:
+https://en.wikipedia.org/wiki/List_of_French_regions_and_overseas_collectivities_by_GDP#Departments_by_GDP
+ I will use the information available on Wikipedia about the GDP per capita of  each Department in France to find out which region is more profitable.
+
+Data source 3:  
+ https://www.french-property.com/news/french_life/crimes_departments_2015/
+I will use the above French property website to analyse the rate of crime in each departments because usually  to make a reasonable profit in real estate , the estate must be in a reasonably safe environment 
+
+
+
